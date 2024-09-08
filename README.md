@@ -54,12 +54,13 @@ Make sure you have the following installed:
 2. Open the URL provided by Streamlit in your browser (usually `http://localhost:8501`).
 
 ## Project Structure
-
+```
 hotel-booking-system/
 │
 ├── hotel_booking_streamlit.py   # Main application code
 ├── README.md                    # Project documentation
 └── requirements.txt             # Dependencies (optional)
+```
 
 ## Future Enhancements
 
